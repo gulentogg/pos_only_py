@@ -1,0 +1,10 @@
+|       NO.       -       MENU      -      PRICE      |
+|        1        -    cappuchino   -        40       |
+|        2        -       gogo      -        50       |
+|        3        -     espresso    -        85       |
+|                     ENJOY EATING                    |
+write order in order.txt by member number 
+and sign "|" then write quantity.
+**important**
+Enter one line per one order.
+any unknown menu will be ignore.

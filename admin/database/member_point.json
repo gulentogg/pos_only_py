@@ -1,0 +1,27 @@
+[
+    {
+        "name": "1002",
+        "gogo": 358,
+        "cappuchino": 5050
+    },
+    {
+        "name": "1004",
+        "gogo": 9691,
+        "cappuchino": 6061
+    },
+    {
+        "name": "1001",
+        "gogo": 110,
+        "cappuchino": 1110
+    },
+    {
+        "name": "1005",
+        "gogo": 75,
+        "espresso": 25
+    },
+    {
+        "name": "1006",
+        "cappuchino": 6,
+        "gogo": 8
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "1002",
+        "discount": 20
+    },
+    {
+        "name": "1004",
+        "discount": 20
+    },
+    {
+        "name": "1001",
+        "discount": 15
+    },
+    {
+        "name": "1005",
+        "discount": 5
+    },
+    {
+        "name": "1006",
+        "discount": 0
+    }
+]
